@@ -2,6 +2,8 @@
 PoS Blockchain in python cuz I was bored and wanted to create another coin in python.
 This is follows on from my other crypto project - 's**tCoin'.
 
+##Made in 3 hours + lots of caffeine
+
 #### Explanation
 This coin will use PoS to determine which wallet has won and can forge the next block (incentive: get the fee's, block creation is free...)
 
